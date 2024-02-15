@@ -9,6 +9,6 @@
 #### Locality & Masking
 ![](locality_masking.png)
 
-###### Numerical Example
+#### Numerical Example
   - The speed must be less than 1 m/s until the vehicle reaches the waypoint
 ![](Num_sim.png)
