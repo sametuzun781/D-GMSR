@@ -1,14 +1,22 @@
-### Generalized $\mathcal{C}^1$-smooth Average-based Robustness for Optimization with Signal Temporal Logic Specifications (D-GSAR)
+### Generalized Smooth Average-based Robustness for Optimization with Signal Temporal Logic Specifications (D-GSAR)
+
+![](sim/rocket_landing.gif)
 
 #### Conjunction (And) D-SSR vs. D-GSAR
-![](and_ssr_dgsar.png)
+![](figs/and_ssr_dgsar.png)
 
 #### Disjunction (Or) D-SSR vs. D-GSAR
-![](or_ssr_dgsar.png)
+![](figs/or_ssr_dgsar.png)
 
 #### Locality & Masking
-![](locality_masking.png)
+![](figs/locality_masking.png)
 
-#### Numerical Example
-  - The speed must be less than 1 m/s _UNTIL_ the vehicle reaches the waypoint
-![](Num_sim.png)
+#### Quadrotor flight
+  - The quadrotor's speed must not exceed a specified threshold until it stops at the battery charging station for a consecutive number of time steps.
+![](figs/qf_pos0.png)
+![](figs/qf_oth.png)
+
+#### Autonomous rocket landing
+  - 5 Speed-trigerred, 9 Altitide-trigerred constraints
+![](figs/rl_pos.png)
+![](figs/rl_oth.png)
