@@ -1,12 +1,12 @@
-### Generalized Smooth Average-based Robustness for Optimization with Signal Temporal Logic Specifications (D-GSAR)
+### Optimization with Temporal and Logical Specifications via Generalized Mean-based Smooth Robustness (D-GMSR)
 
 ![](sim/rocket_landing.gif)
 
-#### Conjunction (And) D-SSR vs. D-GSAR
-![](figs/and_ssr_dgsar.png)
+#### Conjunction (And) D-SSR vs. D-GMSR
+![](figs/dssr.png)
 
-#### Disjunction (Or) D-SSR vs. D-GSAR
-![](figs/or_ssr_dgsar.png)
+#### Disjunction (Or) D-SSR vs. D-GMSR
+![](figs/dgmsr.png)
 
 #### Locality & Masking
 ![](figs/locality_masking.png)
