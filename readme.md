@@ -1,4 +1,4 @@
-### Optimization with Temporal and Logical Specifications via Generalized Mean-based Smooth Robustness (D-GMSR)
+### Optimization with Temporal and Logical Specifications via Generalized Mean-based Smooth Robustness Measures (D-GMSR)
 
 ![](sim/rocket_landing.gif)
 
