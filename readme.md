@@ -2,10 +2,10 @@
 
 ![](sim/rocket_landing.gif)
 
-#### Conjunction (And) D-SSR vs. D-GMSR
+#### D-SSR Conjunction (And) & Disjunction (Or)
 ![](figs/dssr.png)
 
-#### Disjunction (Or) D-SSR vs. D-GMSR
+#### D-GMSR Conjunction (And) & Disjunction (Or)
 ![](figs/dgmsr.png)
 
 #### Locality & Masking
