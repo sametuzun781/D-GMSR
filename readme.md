@@ -20,3 +20,15 @@
   - 5 Speed-trigerred, 9 Altitide-trigerred constraints
 ![](figs/rl_pos.png)
 ![](figs/rl_oth.png)
+
+## Preprint
+
+```
+@article{uzun2024optimization,
+  title={Optimization with Temporal and Logical Specifications via Generalized Mean-based Smooth Robustness Measures},
+  author={Uzun, Samet and Elango, Purnanand and Garoche, Pierre-Loic and Acikmese, Behcet},
+  journal={arXiv preprint arXiv:2405.10996},
+  year={2024},
+  url={https://doi.org/10.48550/arXiv.2405.10996}
+}
+```
