@@ -21,7 +21,7 @@
 ![](figs/rl_pos.png)
 ![](figs/rl_oth.png)
 
-## Preprint
+### Preprint
 
 ```
 @article{uzun2024optimization,
