@@ -1,6 +1,9 @@
-### Optimization with Temporal and Logical Specifications via Generalized Mean-based Smooth Robustness Measures (D-GMSR)
+### A Smooth and Exact Parameterization of Discrete-time Signal Temporal Logic Specifications (D-GMSR)
 
 ![](sim/rocket_landing.gif)
+
+#### D-GMSR Plots of Conjunction (And) & Disjunction (Or)
+![](figs/gmsr_plots_and_or.png)
 
 #### D-SSR Conjunction (And) & Disjunction (Or)
 ![](figs/dssr.png)
